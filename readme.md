@@ -1,3 +1,17 @@
+Technology:
+- PHP5
+- Yii framework
+- MySQL database
+- Apache/IIS
+
+Plug-ins & Extensions
+- PHP Mailer
+- html2pdf
+- Yii eFeed (for RSS feeds)
+
+Design Patten
+- MVC
+
 Instructions:
 
 1. Open the mysql database with root user (phpmyadmin recommended) and run/import the following files:
